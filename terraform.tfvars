@@ -6,4 +6,4 @@ AVAILABILITY_ZONES={
 
 AWS_REGION = "ap-northeast-1"
 
-RDS_PASSWORD = "1adEdg!5"
+RDS_PASSWORD = 
